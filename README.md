@@ -3,7 +3,7 @@
 
 The regression model here is the simple implementation of Linear regression.
 It was shown in data_exploratory_analysis notebook, that there is a strong linear
-correlation between the 6th squared feature the 7th feature and target.
+correlation between the 6th squared feature, the 7th feature and target.
 
 #### Tested with Python3.12.0 on MacOS
 **Steps to reproduce:**
